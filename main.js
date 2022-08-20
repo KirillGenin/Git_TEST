@@ -1,1 +1,1 @@
-const a = 'Local branch test-1'
+const a = 'Remote branch test-1'
